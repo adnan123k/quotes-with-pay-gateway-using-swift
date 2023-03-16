@@ -1,23 +1,14 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # InspoQuotes
+do you want positive energy, then you should install this app.
 
+## features:
+* payment gateway
 
-## What you will create
+## how to run it:
+* install xcode 
+* open InspoQuotes.xcodeproj in xcode
+* run it on your physical device or on your emulator
 
-InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
+## example:
 
-## What you will learn
-
-* How to setup new in-app purchases on App Store Connect
-* How to use the StoreKit API to allow users to purchase premium content
-* How to use the StoreKit API to detect failure cases
-* How to use the StoreKit API to restore in-app purchases
-* How to persist the state of users' purchases
-
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+<img width=200 src="https://user-images.githubusercontent.com/55524560/225652829-08e48cc7-3ec9-4723-b3ed-294ed2ff4ce9.png">
